@@ -3,8 +3,6 @@
 ## Sobre mí
 Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables. Me destaco en el desarrollo web, especialmente en Front End, utilizando diversas tecnologías modernas y metodologías ágiles.
 
-## 📊 Mis Contribuciones
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Tomasdmiguel&show_icons=true&theme=radical)
 
 ## 🔥 Racha de Contribuciones
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tomasdmiguel&theme=dark)
