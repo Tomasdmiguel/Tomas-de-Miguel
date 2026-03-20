@@ -63,7 +63,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y es
 
 ## 📫 Contáctame
 - LinkedIn: [Tomas de Miguel](https://www.linkedin.com/in/tomas-de-miguel-2912342b5/)
-- Email: oteguit31@gmail.com
+- Email: dev.tomadmiguel@gmail.com
 
 ¡No dudes en explorar mis repositorios y contactarme para cualquier colaboración o propuesta interesante!
 
