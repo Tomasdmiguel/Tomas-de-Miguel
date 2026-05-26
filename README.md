@@ -2,9 +2,9 @@
 
 # Tomás de Miguel 👋
 
-### Frontend Developer
+### Frontend Developer | React • TypeScript • Next.js
 
-Building modern web applications with React, TypeScript and Next.js.
+Desarrollando aplicaciones web modernas, escalables y orientadas a producto.
 
 <br/>
 
@@ -16,99 +16,102 @@ Building modern web applications with React, TypeScript and Next.js.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomás%20de%20Miguel-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tomasdmiguel/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:dev.tomasdmiguel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-red?style=flat-square&logo=gmail)](mailto:dev.tomasdmiguel@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 Sobre mí
 
-Frontend Developer focused on building modern, responsive and scalable web applications.
+Soy Frontend Developer especializado en desarrollo de interfaces modernas utilizando tecnologías del ecosistema React.
 
-Currently working with:
+Actualmente participo en la migración y modernización de aplicaciones Frontend en seekerparking.com, trabajando junto a equipos de Backend y QA para construir productos escalables y mejorar la experiencia de usuario.
+
+Tengo experiencia trabajando con:
 
 - React
+- JavaScript
 - TypeScript
 - Next.js
 - Tailwind CSS
 - Vite
 
-Interested in:
+---
 
-- Modern UI
-- Frontend Architecture
+# 💼 Experiencia y enfoque profesional
+
+Me enfoco en desarrollar aplicaciones Frontend con:
+
+- Arquitectura mantenible
+- Componentes reutilizables
 - Responsive Design
-- Performance Optimization
-- Clean Code
-- Reusable Components
+- UI moderna
+- Performance optimizada
+- Buenas prácticas
+- Código limpio y escalable
+
+También me interesa especialmente:
+
+- Migraciones Frontend
+- Modernización de interfaces
+- Desarrollo orientado a producto
+- Colaboración con equipos multidisciplinarios
+- Mejora continua de experiencia de usuario
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Stack Tecnológico
 
-### Frontend
+## Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
 
-### Styling
+## Styling & UI
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
-### Tools
+## Herramientas y workflow
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 
 ---
 
-## 📌 Current Focus
+# 📌 Actualmente enfocado en
 
-- Building frontend projects with modern architecture
-- Improving UI/UX development skills
-- Creating scalable and reusable components
-- Deepening TypeScript and Next.js knowledge
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Desarrollo Frontend moderno con React
+- Migraciones y modernización de aplicaciones
+- Arquitectura de componentes
+- Interfaces responsive
+- UI/UX moderna
+- Performance y optimización
+- Buenas prácticas con TypeScript
 
 ---
 
-## 🔥 Activity Graph
+# 🌎 Objetivo Profesional
 
-<div align="center">
+Busco oportunidades remotas como Frontend Developer donde pueda seguir creciendo en desarrollo de productos modernos, colaborando con equipos técnicos y construyendo experiencias web de alta calidad.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌎 Open to Remote Opportunities
-
-Interested in frontend opportunities focused on:
+Interesado especialmente en proyectos que trabajen con:
 
 - React ecosystem
 - TypeScript
 - Next.js
-- Modern UI development
-- Product-focused teams
+- Frontend Architecture
+- Product Development
+- Modern UI
 
 ---
 
-## 📫 Contact
+# 📫 Contacto
 
 📩 dev.tomasdmiguel@gmail.com
 
@@ -119,6 +122,6 @@ https://www.linkedin.com/in/tomasdmiguel/
 
 <div align="center">
 
-Thanks for visiting my profile 🚀
+### Gracias por visitar mi perfil 🚀
 
 </div>
